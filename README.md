@@ -10,13 +10,13 @@
 - 🎓 **Beykent Üniversitesi** – Yazılım Mühendisliği (3. Sınıf) öğrencisiyim.
 - 🛠️ **Uzmanlık:** .NET ekosistemi üzerinde **OOP prensiplerine (SOLID)** dayalı, yüksek performanslı masaüstü (WPF) ve mobil (.NET MAUI) çözümler geliştiriyorum.
 - 🚀 **Vizyon:** Karmaşık endüstriyel süreçleri; donanım entegrasyonlu, sürdürülebilir kod mimarisi ve veri odaklı yaklaşımlarla dijitalleştirmek.
-- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io)
+- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io)(Yapım Aşamasında)
 
 ---
 
 ### 🌟 Öne Çıkan Projeler
 
-#### 🛒 [POS & Envanter Ekosistemi (Seller System)](https://github.com/beratagca24-hash/seller_system/tree/main)
+#### 🛒 [POS & Envanter Ekosistemi][(https://github.com/beratagca24-hash/seller_system/tree/main)](https://github.com/beratagca24-hash/PcKod-POS)
 **Barkod Tabanlı Perakende Satış ve Otomasyon Çözümü**.
 - **Kapsam:** Perakende ve gıda sektörü süreçlerini dijitalleştiren, masaüstü ve mobil platformlarda senkronize çalışan bir ekosistem.
 - **Teknoloji:** .NET 8, WPF, .NET MAUI, SQLite (Offline-First), ClosedXML.
