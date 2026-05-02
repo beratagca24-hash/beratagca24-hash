@@ -1,22 +1,20 @@
 # 👨‍💻 Berat Ağca | Software Engineering Student
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&center=true&vCenter=true&repeat=true&width=500&lines=Software+Engineer+Candidate;.NET+Ecosystem+Specialist;OOP+&amp;+Design+Patterns;Enterprise+Solution+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=512BD4&center=true&vCenter=true&repeat=true&width=600&lines=Software+Engineering+Student;.NET+Ecosystem+Specialist;Cross-Platform+Developer;Full-Stack+Solution+Architect" alt="Typing SVG" />
 </h1>
-
----
 
 ### 🎯 Hakkımda
 - 🎓 **Beykent Üniversitesi** – Yazılım Mühendisliği (3. Sınıf) öğrencisiyim.
 - 🛠️ **Uzmanlık:** .NET ekosistemi üzerinde **OOP prensiplerine (SOLID)** dayalı, yüksek performanslı masaüstü (WPF) ve mobil (.NET MAUI) çözümler geliştiriyorum.
 - 🚀 **Vizyon:** Karmaşık endüstriyel süreçleri; donanım entegrasyonlu, sürdürülebilir kod mimarisi ve veri odaklı yaklaşımlarla dijitalleştirmek.
-- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io)(Yapım Aşamasında)
+- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io)    (Yapım Aşamasında)
 
 ---
 
 ### 🌟 Öne Çıkan Projeler
 
-#### 🛒 [POS & Envanter Ekosistemi][(https://github.com/beratagca24-hash/seller_system/tree/main)](https://github.com/beratagca24-hash/PcKod-POS)
+#### 🛒 [POS & Envanter Ekosistemi ](https://github.com/beratagca24-hash/PcKod-POS)
 **Barkod Tabanlı Perakende Satış ve Otomasyon Çözümü**.
 - **Kapsam:** Perakende ve gıda sektörü süreçlerini dijitalleştiren, masaüstü ve mobil platformlarda senkronize çalışan bir ekosistem.
 - **Teknoloji:** .NET 8, WPF, .NET MAUI, SQLite (Offline-First), ClosedXML.
