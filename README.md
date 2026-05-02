@@ -8,9 +8,9 @@
 
 ### 🎯 Hakkımda
 - 🎓 **Beykent Üniversitesi** – Yazılım Mühendisliği (3. Sınıf) öğrencisiyim.
-- 🛠️ **Uzmanlık:** .NET ekosistemi üzerinde **OOP prensiplerine (SOLID, Design Patterns)** dayalı, yüksek performanslı masaüstü (WPF) ve mobil (.NET MAUI) çözümler geliştiriyorum.
+- 🛠️ **Uzmanlık:** .NET ekosistemi üzerinde **OOP prensiplerine (SOLID)** dayalı, yüksek performanslı masaüstü (WPF) ve mobil (.NET MAUI) çözümler geliştiriyorum.
 - 🚀 **Vizyon:** Karmaşık endüstriyel süreçleri; donanım entegrasyonlu, sürdürülebilir kod mimarisi ve veri odaklı yaklaşımlarla dijitalleştirmek.
-- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io) (Yapım Aşamasında)
+- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io)
 
 ---
 
@@ -20,34 +20,30 @@
 **Barkod Tabanlı Perakende Satış ve Otomasyon Çözümü**.
 - **Kapsam:** Perakende ve gıda sektörü süreçlerini dijitalleştiren, masaüstü ve mobil platformlarda senkronize çalışan bir ekosistem.
 - **Teknoloji:** .NET 8, WPF, .NET MAUI, SQLite (Offline-First), ClosedXML.
-- **Mühendislik Çözümü:** OOP standartlarında geliştirilen, endüstriyel ağırlık terazilerinden gelen karmaşık EAN-13 barkodlarını anlık parse eden (parsing) ve finansal raporlamayı Excel tabanlı sunan modüler altyapı.
+- **Mühendislik Çözümü:** OOP standartlarında geliştirilen, endüstriyel ağırlık terazilerinden gelen karmaşık EAN-13 barkodlarını dinamik ayrıştıran (parsing) modüler altyapı.
 - **Linkler:** [📱 Mobil (CepKod)](https://github.com/beratagca24-hash/seller_system/tree/main) | [💻 Masaüstü (PcKod)](https://github.com/beratagca24-hash/PcKod-POS).
 
-#### 🧠 [KariyerCraft Web](https://github.com/KariyerCraft/kariyer-craft)
+#### 🧠 [KariyerCraft Web](https://github.com/KariyerCraft/career-craft)
 **Yapay Zeka ve Davranış Analizi Odaklı Kariyer Keşif Platformu**.
 - **Teknoloji:** Next.js (App Router), TypeScript, Tailwind CSS, React, Node.js.
-- **Yaklaşım:** Klasik testlerin ötesinde, interaktif senaryolar ve davranış analizleri ile kullanıcıların mesleki yatkınlıklarını belirleyen modern bir platform.
-- **Ekip:** [Kan Kılıç](https://github.com/kanklc34), [Eyüp Harun Zeybek](https://github.com/Gesch1rr) ve [Mert Akgür](https://github.com/mrtkgr1) ile kolektif geliştirme.
-
-#### 📊 [Employee Salary Calculator](https://github.com/beratagca24-hash/cpp-salary-calculato)
-**C++ OOP ve Veri Validasyonu Odaklı Finansal Araç**.
-- **Teknoloji:** C++, OOP Standartları.
-- **Özellik:** Robust input validation ve stream manipülasyonu kullanarak hazırlanan, güvenli ve nesne yönelimli maaş hesaplama sistemi.
+- **Proje Yönetimi:** Ekip liderliği ve kolektif geliştirme süreçleri ile hayata geçirilen vizyoner platform.
+- **Ekip:** [Kan Kılıç](https://github.com/kanklc34), [Eyüp Harun Zeybek](https://github.com/Gesch1rr) ve [Mert Akgür](https://github.com/mrtkgr1).
 
 ---
 
 ### 🏅 Akademik Çalışmalar (Aktif)
-- **TÜBİTAK 2209-A (2025):** Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı — *Aktif / Sonuç Bekleniyor*.
-- **TÜBİTAK 2242:** Üniversite Öğrencileri Araştırma Proje Yarışmaları — *Aktif / Değerlendirme Aşamasında*.
+- **TÜBİTAK 2209-A (01/12/2025):** Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı — *Aktif / Sonuç Bekleniyor*.
+- **TÜBİTAK 2242 (24/04/2026):** Üniversite Öğrencileri Araştırma Proje Yarışmaları — *Aktif / Değerlendirme Aşamasında*.
 
 ---
+
 ### 🛠 Teknik Yetkinlikler
 
-- **Diller:** C#, SQL, HTML, CSS, Java, Python, C++, JavaScript.
-- **Frameworkler & Ortamlar:** .NET MAUI, WPF, Next.js, React, ASP.NET Core, Node.js.
-- **Veritabanı:** SQLite, MySQL, SQL Server.
-- **Araçlar & IDE'ler:** Visual Studio, VS Code, Git, ClosedXML, SkiaSharp, ZXing.
-- **Disiplinler:** OOP (Object-Oriented Programming), Tasarım Kalıpları, Veri Yapıları ve Algoritmalar.
+*   **Programlama Dilleri:** C#, C++, SQL, JavaScript, Java, Python, HTML, CSS.
+*   **Web & Frameworkler:** ASP.NET, ASP.NET MVC, .NET MAUI, WPF, Next.js, React, Node.js.
+*   **Veritabanı Yönetimi:** SQL Server, MySQL, SQLite.
+*   **Mühendislik Disiplinleri:** Algoritmalar, Programlama Temelleri, OOP (Object-Oriented Programming), Tasarım Kalıpları.
+*   **Araçlar & Yönetim:** Proje Yönetimi, Microsoft Office (Veri Raporlama), Visual Studio, VS Code, Git.
 
 ---
 
