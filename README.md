@@ -10,7 +10,7 @@
 - 🎓 **Beykent Üniversitesi** – Yazılım Mühendisliği (3. Sınıf) öğrencisiyim.
 - 🛠️ **Uzmanlık:** .NET ekosistemi üzerinde **OOP prensiplerine (SOLID, Design Patterns)** dayalı, yüksek performanslı masaüstü (WPF) ve mobil (.NET MAUI) çözümler geliştiriyorum.
 - 🚀 **Vizyon:** Karmaşık endüstriyel süreçleri; donanım entegrasyonlu, sürdürülebilir kod mimarisi ve veri odaklı yaklaşımlarla dijitalleştirmek.
-- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io)
+- 🌍 **Portfolyo:** [🌐 beratagca24-hash.github.io](https://beratagca24-hash.github.io) (Yapım Aşamasında)
 
 ---
 
@@ -36,6 +36,11 @@
 
 ---
 
+### 🏅 Akademik Çalışmalar (Aktif)
+- **TÜBİTAK 2209-A (2025):** Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı — *Aktif / Sonuç Bekleniyor*.
+- **TÜBİTAK 2242:** Üniversite Öğrencileri Araştırma Proje Yarışmaları — *Aktif / Değerlendirme Aşamasında*.
+
+---
 ### 🛠 Teknik Yetkinlikler
 
 - **Diller:** C#, SQL, HTML, CSS, Java, Python, C++, JavaScript.
